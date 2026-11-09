@@ -1,0 +1,36 @@
+hands=100 result=+520 mbb/hand +/- 1772 (95% CI)
+hands=200 result=+912 mbb/hand +/- 1454 (95% CI)
+hands=300 result=-371 mbb/hand +/- 1689 (95% CI)
+hands=400 result=-873 mbb/hand +/- 1692 (95% CI)
+retrying after <urlopen error [Errno 60] Operation timed out>
+retrying after <urlopen error [Errno 8] nodename nor servname provided, or not known>
+retrying after <urlopen error [Errno 8] nodename nor servname provided, or not known>
+retrying after <urlopen error [Errno 8] nodename nor servname provided, or not known>
+hands=500 result=-406 mbb/hand +/- 1390 (95% CI)
+retrying after <urlopen error [Errno 54] Connection reset by peer>
+hands=600 result=-437 mbb/hand +/- 1191 (95% CI)
+retrying after <urlopen error [Errno 54] Connection reset by peer>
+hands=700 result=-371 mbb/hand +/- 1198 (95% CI)
+hands=800 result=-607 mbb/hand +/- 1172 (95% CI)
+hands=900 result=-473 mbb/hand +/- 1056 (95% CI)
+hands=1000 result=-432 mbb/hand +/- 975 (95% CI)
+hands=1100 result=-208 mbb/hand +/- 978 (95% CI)
+hands=1200 result=-223 mbb/hand +/- 901 (95% CI)
+hands=1300 result=-163 mbb/hand +/- 840 (95% CI)
+hands=1400 result=-119 mbb/hand +/- 787 (95% CI)
+hands=1500 result=-129 mbb/hand +/- 818 (95% CI)
+hands=1600 result=-78 mbb/hand +/- 773 (95% CI)
+hands=1700 result=-45 mbb/hand +/- 747 (95% CI)
+hands=1800 result=-246 mbb/hand +/- 768 (95% CI)
+hands=1900 result=-325 mbb/hand +/- 736 (95% CI)
+hands=2000 result=-228 mbb/hand +/- 716 (95% CI)
+hands=2100 result=-243 mbb/hand +/- 688 (95% CI)
+hands=2200 result=-275 mbb/hand +/- 687 (95% CI)
+hands=2300 result=-234 mbb/hand +/- 663 (95% CI)
+hands=2400 result=-345 mbb/hand +/- 659 (95% CI)
+hands=2500 result=-379 mbb/hand +/- 636 (95% CI)
+hands=2600 result=-274 mbb/hand +/- 632 (95% CI)
+hands=2700 result=-382 mbb/hand +/- 629 (95% CI)
+hands=2800 result=-483 mbb/hand +/- 629 (95% CI)
+hands=2900 result=-403 mbb/hand +/- 625 (95% CI)
+hands=3000 result=-375 mbb/hand +/- 607 (95% CI)

@@ -1,0 +1,75 @@
+start: 73.14  per field [69.5, 77.5, 72.4]
+round 1 push_depth=15.000: 70.71 (-2.42)
+round 1 push_depth=9.000: 74.66 (+1.52)  kept
+round 1 push_base=0.460: 74.28 (-0.38)
+round 1 push_base=0.380: 75.18 (+0.52)  kept
+round 1 push_per_player=0.025: 74.72 (-0.46)
+round 1 push_per_player=0.005: 75.40 (+0.22)
+round 1 push_fe=0.200: 75.45 (+0.27)
+round 1 push_fe=0.000: 74.32 (-0.85)
+round 1 open_raise=0.660: 75.19 (+0.02)
+round 1 open_raise=0.580: 75.21 (+0.04)
+round 1 call_base=0.490: 75.70 (+0.53)  kept
+round 1 call_odds=0.550: 76.30 (+0.60)  kept
+round 1 post_value=0.650: 75.82 (-0.48)
+round 1 post_value=0.550: 75.57 (-0.73)
+round 1 post_call=0.160: 76.30 (+0.00)
+round 1 post_call=0.080: 75.99 (-0.32)
+round 1 thin_value=0.180: 75.97 (-0.33)
+round 1 thin_value=0.020: 75.81 (-0.50)
+round 1 pressure=0.200: 77.02 (+0.72)  kept
+round 1 steal_fe=0.650: 71.45 (-5.57)
+round 1 steal_fe=0.450: 79.72 (+2.70)  kept
+round 1 steal_min=0.350: 65.73 (-13.99)
+round 1 steal_min=0.150: 83.39 (+3.67)  kept
+round 1 bluff_fe=0.750: 83.38 (-0.02)
+round 1 bluff_fe=0.450: 83.40 (+0.00)
+round 1 raiser_adjust=0.900: 83.97 (+0.58)  kept
+round 1 value_size=0.850: 84.29 (+0.32)  kept
+round 1 station_size=0.450: 84.26 (-0.04)
+round 1 station_size=0.050: 84.32 (+0.03)
+round 2 push_depth=12.000: 82.82 (-1.48)
+round 2 push_depth=6.000: 84.80 (+0.51)  kept
+round 2 push_base=0.420: 84.84 (+0.03)
+round 2 push_base=0.340: 84.92 (+0.11)
+round 2 push_per_player=0.025: 84.86 (+0.05)
+round 2 push_per_player=0.005: 84.86 (+0.06)
+round 2 push_fe=0.200: 84.88 (+0.07)
+round 2 push_fe=0.000: 84.68 (-0.12)
+round 2 open_raise=0.660: 84.61 (-0.20)
+round 2 open_raise=0.580: 84.55 (-0.25)
+round 2 call_base=0.530: 85.02 (+0.22)
+round 2 call_base=0.450: 84.39 (-0.41)
+round 2 call_odds=0.700: 84.96 (+0.16)
+round 2 call_odds=0.400: 84.40 (-0.40)
+round 2 post_value=0.650: 84.63 (-0.17)
+round 2 post_value=0.550: 83.15 (-1.65)
+round 2 post_call=0.160: 84.84 (+0.03)
+round 2 post_call=0.080: 84.76 (-0.05)
+round 2 thin_value=0.180: 84.48 (-0.33)
+round 2 thin_value=0.020: 84.62 (-0.19)
+round 2 pressure=0.280: 85.23 (+0.42)  kept
+round 2 steal_fe=0.550: 83.03 (-2.20)
+round 2 steal_fe=0.350: 85.96 (+0.74)  kept
+round 2 steal_min=0.250: 82.88 (-3.08)
+round 2 steal_min=0.050: 86.79 (+0.83)  kept
+round 2 bluff_fe=0.750: 86.80 (+0.01)
+round 2 bluff_fe=0.450: 86.99 (+0.20)
+round 2 raiser_adjust=1.200: 86.83 (+0.04)
+round 2 raiser_adjust=0.600: 86.49 (-0.30)
+round 2 value_size=1.050: 86.47 (-0.32)
+round 2 value_size=0.650: 86.43 (-0.36)
+round 2 station_size=0.450: 86.78 (-0.01)
+round 2 station_size=0.050: 86.76 (-0.03)
+final: 86.79  per field [78.1, 96.4, 85.9]
+{
+ "push_depth": 6,
+ "push_base": 0.38,
+ "call_base": 0.49,
+ "call_odds": 0.55,
+ "pressure": 0.28,
+ "steal_fe": 0.35,
+ "steal_min": 0.05,
+ "raiser_adjust": 0.9,
+ "value_size": 0.85
+}

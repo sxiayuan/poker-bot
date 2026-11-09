@@ -1,0 +1,11 @@
+{
+ "push_depth": 6,
+ "push_base": 0.38,
+ "call_base": 0.49,
+ "call_odds": 0.55,
+ "pressure": 0.28,
+ "steal_fe": 0.35,
+ "steal_min": 0.05,
+ "raiser_adjust": 0.9,
+ "value_size": 0.85
+}

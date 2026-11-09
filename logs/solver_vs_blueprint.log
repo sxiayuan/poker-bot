@@ -1,0 +1,3 @@
+solve:data/hu100bb.policy:3:300 vs data/hu100bb.policy    +120.6 mbb/hand  +/- 98.9 (95% CI, 19999 duplicate pairs)
+solve:data/hu100bb.policy:3:300 vs tag      +441.5 mbb/hand  +/- 140.1 (95% CI, 19999 duplicate pairs)
+solve:data/hu100bb.policy:3:300 vs potodds    +387.5 mbb/hand  +/- 230.7 (95% CI, 10003 duplicate pairs)
